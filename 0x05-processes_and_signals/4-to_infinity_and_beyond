@@ -2,6 +2,6 @@
 #to infinity and betyond
 while true
 do
-    echo "to infinity and betyond"
+    echo "To infinity and beyond"
     sleep 2
 done
