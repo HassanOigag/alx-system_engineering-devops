@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Show your bash PID made easy
+top -b -n 1 | grep bash | awk '{print $1 " " $12}'
