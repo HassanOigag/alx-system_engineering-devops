@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#to infinity and betyond
+while true
+do
+    echo "to infinity and betyond"
+    sleep 2
+done
