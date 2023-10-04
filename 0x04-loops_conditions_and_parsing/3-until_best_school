@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#until looops
+
+x=1
+until [ $x -gt 10 ]
+do
+	echo "Best School"
+	((x++))
+done
