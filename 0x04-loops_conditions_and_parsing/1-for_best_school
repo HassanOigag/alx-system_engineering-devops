@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#this is a script that displays a text ten time#this is a script that displays a text ten time:wqs
+#this is a script that displays a text ten time#this is a script that displays a text ten time
 for i in {1..10}
 do
 	echo "Best School"
