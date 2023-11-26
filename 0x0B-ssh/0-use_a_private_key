@@ -1,0 +1,7 @@
+#!/bin/bash
+
+private_key="~/.ssh/school"
+user="ubuntu"
+server_address="54.237.115.139" 
+
+ssh -i "$private_key" "$user"@"$server_address"
